@@ -1,0 +1,14 @@
+# AutoDock
+*.pdbqt
+*.dlg
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# temporary
+*.tmp
